@@ -1,3 +1,4 @@
 # EEE111-Project
-Name: Anthony Cyrel G. Sia
-Section: EEE 111 THQR2
+Anthony Cyrel G. Sia
+
+EEE 111 THQR2
